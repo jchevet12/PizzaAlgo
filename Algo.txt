@@ -1,0 +1,8 @@
+Choose the pizza place
+Call the pizza place
+Place the pizza order
+Wait for the driver 
+4a pay over phone
+4b pay at the door 
+Greet the delivery drive 
+repeat steps 4 if required
